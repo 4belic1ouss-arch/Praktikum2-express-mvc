@@ -15,7 +15,7 @@ Proyek ini dibuat untuk praktikum pemrograman web menggunakan Node.js, Express.j
 - `controllers/` — logika pengolahan request
 - `views/` — tampilan EJS
 - `public/` — file CSS dan aset statis
-- `screenshots/` — dokumentasi hasil praktikum
+- `docs/` — dokumentasi screenshot hasil praktikum
 
 ## Cara Menjalankan
 1. Buka terminal di folder proyek.
@@ -25,15 +25,29 @@ Proyek ini dibuat untuk praktikum pemrograman web menggunakan Node.js, Express.j
 
 ## Dokumentasi Hasil Praktikum
 
-![Hasil Praktikum]
-01. (docs/01-init-server.png.png)
-02. (docs/2-static-404.png..png)
-03. (docs/03-ejs-partials.png..png)
-04. (docs/04-mvc-refactor.png...png)
-05. (docs/05-post-payload.png..png)
-06. (docs/06-error-undefined.png..png)
-07. (docs/07-error-lookup.png..png)
-08. (docs/08-error-port.png..png)
+### 1. Inisialisasi Server
+![Inisialisasi Server](docs/01-init-server.png.png)
+
+### 2. Static dan 404
+![Static dan 404](docs/2-static-404.png..png)
+
+### 3. EJS Partials
+![EJS Partials](docs/03-ejs-partials.png..png)
+
+### 4. Refactor MVC
+![Refactor MVC](docs/04-mvc-refactor.png...png)
+
+### 5. POST Payload
+![POST Payload](docs/05-post-payload.png..png)
+
+### 6. Error Undefined
+![Error Undefined](docs/06-error-undefined.png..png)
+
+### 7. Error Lookup
+![Error Lookup](docs/07-error-lookup.png..png)
+
+### 8. Error Port
+![Error Port](docs/08-error-port.png..png)
 
 ## Identitas
 - Nama: Adelia Putri
